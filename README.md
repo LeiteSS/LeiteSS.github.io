@@ -14,3 +14,14 @@ O principal objetivo desse site é expor os meus estudos e os projetos desenvolv
 - Para cada experiência (as escolas que frenquentei) terá um pagina descrenvendo o que foi estudado e os cursos feitos.
 - Se eu fazer uma *timeline* será melhor ainda. Graphic novel contando a minha historia.
 - Piadas eu preciso colocar algumas piadas.
+
+## Paginas 
+
+- **Intro**: Pagina principal. 
+- **Where**: Pagina onde eu coloco as escolas que eu frenquentei.
+- **Works**: Pagina onde eu coloco os meus projetos.
+
+
+## Work in Progress
+
+- [Criando containers personalizaveis em React](https://blog.matheuscastiglioni.com.br/criando-containers-personalizaveis-em-react/)
